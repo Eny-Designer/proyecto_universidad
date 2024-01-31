@@ -1,0 +1,77 @@
+
+h1,h2 {
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #111213;
+    font-weight: bolder;
+}
+button {
+    text-align: center;
+    background-color: rgb(46, 64, 116);
+    color: aliceblue;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border-radius: 15px;
+    padding: 10px 25px 10px 25px;
+
+}
+ul{
+    color: #091b2e;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ol{
+    color: #091b2e;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.op{
+    color: purple;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+iframe{
+    border-radius: 15px;
+}
+#bt{
+    text-align: center;
+    background-color: rgb(46, 64, 116);
+    color: aliceblue;
+    font-size: large;
+    font-family:monospace;
+    font-weight: bolder;
+    border-radius: 15px;
+    padding: 10px 25px 10px 25px;
+}
+.contenedortest * {
+    background-color:#794e8d80;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+}
+div{
+    padding: 5% 5% 5% 5%;
+
+}
+.contenedor {
+    padding: 3% 3% 3% 3%;
+    background-color: #794e8d80; 
+    border-radius: 25px;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+p {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #111213;
+    font-weight: normal;
+}
+
+p span b {
+    color: red;
+}
+
